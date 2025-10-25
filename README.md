@@ -1,7 +1,6 @@
 # Hackathon_Test
 
 
-
 # Bank Account Creation API (Flask + SQLAlchemy + Sql Server)
 
 ## Overview
